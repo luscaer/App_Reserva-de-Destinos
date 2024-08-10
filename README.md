@@ -1,5 +1,7 @@
 # App_viagens
 
+## Software que simula uma aplicação direcionada a reserva de viagens.
+
 Link repositório original: https://github.com/superkarlos/APP-VIAGENS-FLUTTER-MOBILE
 
 -Componentes:  
