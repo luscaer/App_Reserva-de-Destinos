@@ -1,6 +1,4 @@
-# App_viagens
-
-## Software que simula uma aplicação direcionada a reserva de viagens.
+#Software que simula uma aplicação direcionada a reserva de viagens.
 
 Reserva de Viagens é uma aplicação voltada para o planejamento e a reserva de viagens a destinos selecionados. A aplicação permite aos usuários:
 
@@ -10,11 +8,11 @@ Reserva de Viagens é uma aplicação voltada para o planejamento e a reserva de
 
 Essas funcionalidades visam proporcionar uma experiência integrada e personalizada para facilitar o planejamento e a reserva de suas viagens.
 
-Link repositório original: https://github.com/superkarlos/APP-VIAGENS-FLUTTER-MOBILE
-
 ## Componentes:  
 
 * JOSE CARLOS DA SILVA NASCIMENTO  
 * LUCAS EMANUEL RIBEIRO COSTA  
 * MATHEUS QUEIROZ DE ALMEIDA PEREIRA  
 * PEDRO HENRIQUE BASTOS VIANA  
+
+### [Link repositório original](https://github.com/superkarlos/APP-VIAGENS-FLUTTER-MOBILE)
